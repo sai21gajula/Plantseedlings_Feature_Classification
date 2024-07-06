@@ -87,6 +87,3 @@ This project demonstrates the effectiveness of using advanced pre-processing and
 
 For more detailed information, please refer to the provided Jupyter notebook and documentation.
 
----
-
-This README provides a detailed overview of the project, including dataset details, pre-processing techniques, model specifications, results, and conclusions. Let me know if you need any additional information or modifications.
